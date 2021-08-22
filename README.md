@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandywonka
 - 👀 I’m interested in Developing Software
-- 🌱 I’m currently learning Python and Node.JS
+- 🌱 I’m currently learning Python and ReactJS
 - 📫 How to reach me sandiherdiansyah46@gmail.com
 
 <!---
