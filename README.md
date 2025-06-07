@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandywonka
-- 👀 I’m interested in Developing Software
-- 🌱 I’m currently learning ETL stack (elasticsearch, kibana, logstash)
+- 👀 I’m interested in Developing Software and AI
+- 🌱 I’m currently learning ELK Stack (Elasticsearch, Logstash, Kibana)
 - 📫 How to reach me sandiherdiansyah46@gmail.com
 
 <!---
